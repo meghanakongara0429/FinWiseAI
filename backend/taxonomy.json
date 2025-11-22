@@ -1,0 +1,6 @@
+{
+  "dining": ["cafe", "coffee", "starbucks"],
+  "fuel": ["petrol", "diesel", "shell"],
+  "shopping": ["amazon", "flipkart", "myntra"],
+  "groceries": ["dmart", "groceries", "supermarket"]
+}
